@@ -1,19 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jiyeon&fontAlignY=40&fontSize=100&&descAlignY=65&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Jiyeon&fontAlignY=40&fontSize=80&&descAlignY=65&animation=twinkling)
 
 <div align="center">
-  <h4> Experience </h4>
-  - SSAFY 8th, Samsung Software Academy For Youth (2022.07 ~ 2023.06)  <br>
-  - Withmind, ICT Intership (2021.09 ~ 2021.12)  <br>
-  - Sejong University, Smart Device Engineering (2017.03 ~ 2022.08) <br>
+  <h4>💻Experience💻</h4>
+  - Shinhan Securities Pro Digital Academy 4th (2024.03 ~ ) <br/>
+  - SSAFY 8th, Samsung Software Academy For Youth (2022.07 ~ 2023.06)  <br/>
+  - Withmind, ICT Internship (2021.09 ~ 2021.12)  <br/>
+  - Sejong University, Smart Device Engineering (2017.03 ~ 2022.08) <br/>
   <h3>Tech Stack</h3>
   <div class="stack">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
     <br/>
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring%20Data JPA-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
     <img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=black"/> 
     <br/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
