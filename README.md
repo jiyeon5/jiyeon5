@@ -4,7 +4,7 @@
   <h4> Experience </h4>
   - SSAFY 8th, Samsung Software Academy For Youth (2022.07 ~ 2023.06)  <br>
   - Withmind, ICT Intership (2021.09 ~ 2021.12)  <br>
-  - Sejong's University, Smart Device Engineering (2017.03 ~ 2022.08) <br>
+  - Sejong University, Smart Device Engineering (2017.03 ~ 2022.08) <br>
   <h3>Tech Stack</h3>
   <div class="stack">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
