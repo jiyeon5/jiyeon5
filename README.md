@@ -52,7 +52,7 @@
 ## 📁 Projects
 | Title | Period | Description | Group | URL |
 | :--: | :--: | :--: | :--: | :--: |
-| 잘자라 | 2023.04 ~ 2023.05 |  Docker 기반의 쉽고 빠른 자동배포 솔루션 | 삼성 청년 SW 아카데미 8기 | [GitHub Link](https://github.com/RaonZena-decaf/RaonZena) |
-| 또바기 | 2023.02 ~ 2023.04 | 부모와 아이가 함께 즐기는 헬스 게임 웹 서비스 | 삼성 청년 SW 아카데미 8기 | [GitHub Link](https://github.com/jiyeon5/ddobagi) |
-| 라온제나 | 2023.01 ~ 2023.02 | 감정 공유 SNS 웹 서비스 | 삼성 청년 SW 아카데미 8기 | - |
+| 잘자라 | 2023.04 ~ 2023.05 |  - | 삼성 청년 SW 아카데미 8기 | [GitHub Link](https://github.com/RaonZena-decaf/RaonZena) |
+| 또바기 | 2023.02 ~ 2023.04 | - | 삼성 청년 SW 아카데미 8기 | [GitHub Link](https://github.com/jiyeon5/ddobagi) |
+| 라온제나 | 2023.01 ~ 2023.02 | - | 삼성 청년 SW 아카데미 8기 | - |
 | AI 면접 답변 점수화 | 2021.09 ~ 2021.12| AI 면접 답변 점수화 서비스 | 위드마인드 - ICT 인턴십 | - |
