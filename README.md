@@ -26,10 +26,12 @@
     <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
     <br/>
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
     <br/>
     <h3>Tools</h3>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
@@ -53,7 +55,11 @@
 ## 📁 Projects
 | Title | Period | Description | Group | URL |
 | :--: | :--: | :--: | :--: | :--: |
-| 잘자라 | 2023.04 ~ 2023.05 |  - | 삼성 청년 SW 아카데미 8기 | [GitHub Link](https://github.com/RaonZena-decaf/RaonZena) |
-| 또바기 | 2023.02 ~ 2023.04 | - | 삼성 청년 SW 아카데미 8기 | [GitHub Link](https://github.com/jiyeon5/ddobagi) |
-| 라온제나 | 2023.01 ~ 2023.02 | - | 삼성 청년 SW 아카데미 8기 | - |
+| 잘자라 | 2023.04 ~ 2023.05 | 우리 아이 수면 관리 플랫폼  | 삼성 청년 SW 아카데미 8기 | [GitHub Link](https://github.com/jiyeon5/jaljara) |
+| 또바기 | 2023.02 ~ 2023.04 | 다문화 가정을 위한 한국어 회화 학습 서비스 | 삼성 청년 SW 아카데미 8기 | [GitHub Link](https://github.com/jiyeon5/ddobagi) |
+| 라온제나 | 2023.01 ~ 2023.02 | 화상 게임 웹 서비스 | 삼성 청년 SW 아카데미 8기 | [GitHub Link](https://github.com/RaonZena-decaf/RaonZena) |
 | AI 면접 답변 점수화 | 2021.09 ~ 2021.12| AI 면접 답변 점수화 서비스 | 위드마인드 - ICT 인턴십 | - |
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
