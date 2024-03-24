@@ -54,6 +54,43 @@
 </div>
 
 <h2>📁 Projects</h2>
+<table>
+  <tr>
+    <th scope="col" width="16.8%">Title</td>
+    <th scope="col" width="15.8%">Period</td>
+    <th scope="col" width="34%">Description</td>
+    <th scope="col">Group</td>
+    <th scope="col">URL</td>
+  </tr>
+  <tr align="center">
+    <td>잘자라</td>
+    <td>2023.02 ~ 2023.04</td>
+    <td>우리 아이 수면 관리 플랫폼</td>
+    <td>삼성 청년 SW 아카데미 8기</td>
+    <td><a href="https://github.com/jiyeon5/jaljara">GitHub Link</a></td>
+  </tr>
+  <tr align="center">
+    <td>또바기</td>
+    <td>2023.01 ~ 2023.02</td>
+    <td>다문화 가정을 위한 한국어 회화 학습 서비스</td>
+    <td>삼성 청년 SW 아카데미 8기</td>
+    <td><a href="https://github.com/jiyeon5/ddobagi">GitHub Link</a></td>
+  </tr>
+  <tr align="center">
+    <td>라온제나</td>
+    <td>2023.04 ~ 2023.05</td>
+    <td>화상 게임 웹 서비스</td>
+    <td>삼성 청년 SW 아카데미 8기</td>
+    <td><a href="https://github.com/RaonZena-decaf/RaonZena">GitHub Link</a></td>
+  </tr>
+  <tr align="center">
+    <td>AI 면접 답변 점수화</td>
+    <td>2021.09 ~ 2021.12</td>
+    <td>AI 면접 답변 점수화 서비스</td>
+    <td>위드마인드 - ICT 인턴십</td>
+    <td>-</td>
+  </tr>
+</table>
 <ul>
   <li><b>잘자라</b> : 우리 아이 수면 관리 플랫폼 (2023.04 ~ 2023.05) <a href="https://github.com/jiyeon5/jaljara">GitHub Link<a/></li>
   <li><b>또바기</b> : 다문화 가정을 위한 한국어 회화 학습 서비스 (2023.02 ~ 2023.04) <a href="https://github.com/jiyeon5/ddobagi">GitHub Link</a></li>
