@@ -60,6 +60,43 @@
   <li><b>라온제나</b> : 화상 게임 웹 서비스 (2023.01 ~ 2023.02) <a href="https://github.com/RaonZena-decaf/RaonZena">GitHub Link</a>
   <li><b>AI 면접 답변 점수화</b> : AI 면접 답변 점수화 서비스 (2021.09 ~ 2021.12)
 </ul>
+<table>
+  <tr>
+    <th scope="col" width="16.8%">Title</th>
+    <th scope="col" width="15.8%">Period</th>
+    <th scope="col" width="34%">Description</th>
+    <th scope="col">Group</th>
+    <th scope="col">URL</th>
+  </tr>
+  <tr align="center">
+    <td>잘자라</td>
+    <td>2023.02 ~ 2023.04</td>
+    <td>우리 아이 수면 관리 플랫폼</td>
+    <td>삼성 청년 SW 아카데미 8기</td>
+    <td><a href="https://github.com/jiyeon5/jaljara">GitHub Link</a></td>
+  </tr>
+  <tr align="center">
+    <td>또바기</td>
+    <td>2023.01 ~ 2023.02</td>
+    <td>다문화 가정을 위한 한국어 회화 학습 서비스</td>
+    <td>삼성 청년 SW 아카데미 8기</td>
+    <td><a href="https://github.com/jiyeon5/ddobagi">GitHub Link</a></td>
+  </tr>
+  <tr align="center">
+    <td>라온제나</td>
+    <td>2023.04 ~ 2023.05</td>
+    <td>화상 게임 웹 서비스</td>
+    <td>삼성 청년 SW 아카데미 8기</td>
+    <td><a href="https://github.com/RaonZena-decaf/RaonZena">GitHub Link</a></td>
+  </tr>
+  <tr align="center">
+    <td>AI 면접 답변 점수화</td>
+    <td>2021.09 ~ 2021.12</td>
+    <td>AI 면접 답변 점수화 서비스</td>
+    <td>위드마인드 - ICT 인턴십</td>
+    <td>-</td>
+  </tr>
+</table>
 <br/>
     
 <div>
