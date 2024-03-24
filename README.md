@@ -54,14 +54,8 @@
 </div>
 
 <h2>📁 Projects</h2>
-<ul>
-  <li><b>잘자라</b> : 우리 아이 수면 관리 플랫폼 (2023.04 ~ 2023.05) <a href="https://github.com/jiyeon5/jaljara">GitHub Link<a/>
-  <li><b>또바기</b> : 다문화 가정을 위한 한국어 회화 학습 서비스 (2023.02 ~ 2023.04) <a href="https://github.com/jiyeon5/ddobagi">GitHub Link</a>
-  <li><b>라온제나</b> : 화상 게임 웹 서비스 (2023.01 ~ 2023.02) <a href="https://github.com/RaonZena-decaf/RaonZena">GitHub Link</a>
-  <li><b>AI 면접 답변 점수화</b> : AI 면접 답변 점수화 서비스 (2021.09 ~ 2021.12)
-</ul>
 <table>
-  <tr>
+  <tr align="center">
     <th scope="col" width="16.8%">Title</th>
     <th scope="col" width="15.8%">Period</th>
     <th scope="col" width="34%">Description</th>
@@ -106,4 +100,8 @@
 <br/>
 
 <h2>About me</h2>
-
+<ul>
+  <li>도전적</li>
+  <li>계획적</li>
+  <li>나눔</li>
+</ul>
