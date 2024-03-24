@@ -55,9 +55,9 @@
 
 <h2>📁 Projects</h2>
 <ul>
-  <li><b>잘자라</b> : 우리 아이 수면 관리 플랫폼 (2023.04 ~ 2023.05) <a href="https://github.com/jiyeon5/jaljara">GitHub Link</li>
-  <li><b>또바기</b> : 다문화 가정을 위한 한국어 회화 학습 서비스 (2023.02 ~ 2023.04) <a href="https://github.com/jiyeon5/ddobagi">GitHub Link</li>
-  <li><b>라온제나</b> : 화상 게임 웹 서비스 (2023.01 ~ 2023.02) <a href="https://github.com/RaonZena-decaf/RaonZena">GitHub Link</li>
+  <li><b>잘자라</b> : 우리 아이 수면 관리 플랫폼 (2023.04 ~ 2023.05) <a href="https://github.com/jiyeon5/jaljara">GitHub Link<a/></li>
+  <li><b>또바기</b> : 다문화 가정을 위한 한국어 회화 학습 서비스 (2023.02 ~ 2023.04) <a href="https://github.com/jiyeon5/ddobagi">GitHub Link</a></li>
+  <li><b>라온제나</b> : 화상 게임 웹 서비스 (2023.01 ~ 2023.02) <a href="https://github.com/RaonZena-decaf/RaonZena">GitHub Link</a></li>
   <li><b>AI 면접 답변 점수화</b> : AI 면접 답변 점수화 서비스 (2021.09 ~ 2021.12)</li>
 </ul>
 <br/>
