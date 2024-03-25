@@ -3,8 +3,8 @@
 <div align="center">
   <h4>💻Experience💻</h4>
   - Shinhan Securities Pro Digital Academy 4th (2024.03 ~ ) <br/>
-  - SSAFY 8th, Samsung Software Academy For Youth (2022.07 ~ 2023.06)  <br/>
-  - Withmind, ICT Internship (2021.09 ~ 2021.12)  <br/>
+  - SSAFY 8th, Samsung Software Academy For Youth (2022.07 ~ 2023.06) <br/>
+  - Withmind, ICT Internship (2021.09 ~ 2021.12) <br/>
   - Sejong University, Smart Device Engineering (2017.03 ~ 2022.08) <br/>
   <h3>Tech Stack</h3>
   <div class="stack">
